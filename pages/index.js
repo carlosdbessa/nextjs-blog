@@ -9,7 +9,7 @@ export default function Home() {
         <title>{START}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello Guys!</p>
+        <p>Hello Guys//!</p>
         <p>
           (I'm back, this is a second chance!!!)
         </p>
