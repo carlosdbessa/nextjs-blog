@@ -11,7 +11,7 @@ export default function Home() {
       <section className={utilStyles.headingMd}>
         <p>Hello Guys//!</p>
         <p>
-          (I'm back, this is a second chance!!!)
+          (I'm back, this is a second csance!!!)
         </p>
       </section>
     </Layout>
