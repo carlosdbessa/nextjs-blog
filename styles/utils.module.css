@@ -50,3 +50,10 @@
 .lightText {
   color: #666;
 }
+
+.page-container-welcome {
+  height: 100vh;
+  position: relative;
+  background-size: cover;
+  background-image: url("/public/img/Branding/art-thing.jpg");
+  }

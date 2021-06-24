@@ -28,7 +28,7 @@ export default function Layout({ children, home }) {
         {home ? (
           <>
             <img
-              src="/images/profile.jpg"
+              src="/images/background.jpg"
               // className={`${styles.headerHomeImage} ${utilStyles.borderCircle}`}
               className={`${styles.headerHomeImage}`}
               alt={name}
@@ -55,6 +55,7 @@ export default function Layout({ children, home }) {
           </>
         )}
       </header>
+
       <main>{children}</main>
       {!home && (
         <div className={styles.backToHome}>
